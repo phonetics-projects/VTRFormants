@@ -1,0 +1,20 @@
+Train\dr3\mdwm0\sx16
+
+roll /r/ F3 high
+     /ow/ F3 high
+     /l/ F1, F3 high
+
+of /ax/ F1 high, F2 shape incorrect, F3 high
+   /v/ F1, F2, F3 high
+
+wire /w/ F1, F3 high
+     /ay/ F1 high and shape incorrect, F2 shape incorrect, F1 and F2 messed up together; F3 high
+     /axr/ F2 and F3 messed up together, F2 and F3 shape incorrect
+
+lay /l/ F1 high; F2 and F3 messed up together, F2 and F3 shape incorrect
+    /ey/ F2 high
+
+near /n/ F1 high
+
+wall /w/ F2 low, F1 and F2 messed up together; F3 high
+     /l/ F2 low, F1 and F2 messed up together

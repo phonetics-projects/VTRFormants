@@ -1,0 +1,19 @@
+Train\dr3\mdjm0\si1455
+
+single /s/ F1 high
+       /ih/ F1 high
+      
+curve /v/ F3 high
+
+line /l/ F1 high
+     /ay/ F1 high and shape incorrect
+
+represents /r/ F3 high
+           /ax/ F2, F3 high
+           /t/ F1 high
+
+formulation /f/ F1 high
+            /ao r/ F1, F2 shape incorrect
+
+example /ix/ F2 high
+       

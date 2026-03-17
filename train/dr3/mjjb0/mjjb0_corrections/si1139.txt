@@ -1,0 +1,23 @@
+Train\dr3\mjjb0\si1139
+
+time /t ay/ F1 high
+
+she /sh/ F1, F2 high
+
+aristocratic /k/ F1 high
+             /r/ F3 high 
+             /ae/ F2 shape incorrect, F3 high and shape incorrect
+             /ix/ F1 high
+
+husband /hh/ F1 high
+
+with /w/ F2 high
+
+coal /ow/ F1 high, F2 low
+     /l/ F1 high
+
+black /ae k/ F1 high
+
+child /ch/ F1, F2, F3 high
+      /l/ F2 low
+      

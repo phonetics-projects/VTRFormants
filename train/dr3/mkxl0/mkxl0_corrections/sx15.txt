@@ -1,0 +1,14 @@
+Train\dr3\mkxl0\sx15
+
+museum /ux/ F3 high
+       /iy/ F2, F3 high
+       /ax/ F2 low
+
+hires /ay axr/ F2 high, F3 low, F2 and F3 messed up together
+
+musician /sh/ F1 high
+
+every /r/ F2, F3 high
+
+evening /iy/ F2 shape incorrect
+        /ix/ F2 low

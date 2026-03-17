@@ -1,0 +1,14 @@
+Train\dr3\mmjb1\sx238
+
+doctor /aa/ F2 low
+       /axr/ F3 high
+   
+was /w/ F3 high
+    /ax/ F2 high
+    /s/ F2 low
+
+the /iy/ F2, F3 high
+
+ambulance /ae/ F2, F3 high
+
+patient /p ey sh/ F3 high

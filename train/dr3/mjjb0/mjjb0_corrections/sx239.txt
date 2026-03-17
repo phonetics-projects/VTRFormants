@@ -1,0 +1,17 @@
+Train\dr3\mjjb0\sx239
+
+puree /p/ F1 high
+      /er/ F3 high (F4 taken as F3)
+
+fruit /f/ F1 high
+      /r/ F1, F2, F3 high
+      /ux/ F3 high (F4 taken as F3)
+
+before /b ax/ F1, F2 high
+       /f/ F1 high
+       /ao/ F1 high, F2 high and shape incorrect, F3 high (F4 taken as F3)
+       /r/ F3 high
+
+preparing /eh r ix/ F2 high, F3 low (F2 and F3 messed up together)
+
+skewers /y uw/ F3 high

@@ -1,0 +1,13 @@
+Train\dr3\mmjb1\si1408
+
+one /ah/ F1 high, F2 low
+
+has /s/ F1 high
+
+only /ow/ F1 high, F2 low
+     /iy/ F2 high
+
+sixty /ih/ F2 high
+
+years /y ih axr s/ F3 high
+       

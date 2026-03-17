@@ -1,0 +1,16 @@
+Train\dr3\mmam0\si1597
+
+figure /er/ F3 low
+
+corner /or/ F3 high (F4 taken as F3)
+
+belched /eh/ F1, F3 high, F2 low
+        /ch/ F1 high
+
+loudly /l/ F1, F2 high
+       /l/ F3 high
+
+deep /iy/ F3 high
+
+eruption /r/ F3 high
+         /ix/ F3 high
