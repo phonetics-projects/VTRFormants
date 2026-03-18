@@ -1,7 +1,0 @@
-Train\dr3\mmar0\sx256
-
-actor /axr s/ F2, F3 high
-
-away /w/ F1, F2 high
-
-idiotically /aa/ F1 high

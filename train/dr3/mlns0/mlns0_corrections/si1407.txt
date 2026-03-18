@@ -1,9 +1,0 @@
-Train\dr3\mlns0\si1407
-
-month /ah/ F1 high
-
-calls /k/ F1 high
-      /ao l/ F1 high, F2 low
-      /l z/ F3 transition problems
-
-cent /s/ F1, F3 high

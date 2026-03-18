@@ -1,9 +1,0 @@
-Train\dr3\mdlh0\sx250
-
-Boston /ao/ F1 high, F2 low
-       /s t/ F1 high
-
-funding /f/ F1 high
-        /ah/ F1, F2 shape incorrect
-
-shortage /r/ F3 high
