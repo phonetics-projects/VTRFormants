@@ -8,4 +8,4 @@ There is a user manual and set of example images from the original Deng corpus. 
 
 Licensing - the corpus comes with a Microsoft Research License Agreement which specifies that the corpus be used for any non-commercial purpose.
 
->>Deng, Li; Cui, Xiaodong; Pruvenok, Robert; Huang, Jonathan; Momen, Safiyy; Chen, Yanyi and Alwan, Abeer (2006) "A Database of vocal tract resonance trajectories for research in speech processing." *Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Toulouse, France.
+>Deng, Li; Cui, Xiaodong; Pruvenok, Robert; Huang, Jonathan; Momen, Safiyy; Chen, Yanyi and Alwan, Abeer (2006) "A Database of vocal tract resonance trajectories for research in speech processing." *Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Toulouse, France.
