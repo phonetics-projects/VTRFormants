@@ -6,6 +6,6 @@ The repository contains the original database 'rar' compressed file, and a trans
 
 There is a user manual and set of example images from the original Deng corpus.  The structure of the VTR_phonlab folder mirrors the original structure of TIMIT with `test` and `train` subdirectories which contain examples of speech recorded in eight dialect regions of the US, and a separate subdirectory for each speaker who are identified by gender "f" or "m" and three letters, the initials of their first, middle and last name. Within each speaker's directory there are .wav, .csv, and .TextGrid files for each audio clip (usually a short sentence). 
 
-Licensing - the corpus comes with a Microsoft Research License Agreement which specifies that the corpus be used for any non-commercial purpose, and that the corpus or any works derived from it may not be distributed in any form.
+Licensing - the corpus comes with a Microsoft Research License Agreement which specifies that the corpus be used for any non-commercial purpose.
 
-Deng, Li; Cui, Xiaodong; Pruvenok, Robert; Huang, Jonathan; Momen, Safiyy; Chen, Yanyi and Alwan, Abeer (2006) "A Database of vocal tract resonance trajectories for research in speech processing." *Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Toulouse, France.
+> Deng, Li; Cui, Xiaodong; Pruvenok, Robert; Huang, Jonathan; Momen, Safiyy; Chen, Yanyi and Alwan, Abeer (2006) "A Database of vocal tract resonance trajectories for research in speech processing." *Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Toulouse, France.
